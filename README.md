@@ -1,2 +1,2 @@
-# Sprub
-Springle's Grub Fork. But more reliable than Grub.
+# Qube
+A Grub Fork made for a new (and currently secret) OS. But... more reliable than GRUB 2.
