@@ -1,2 +1,2 @@
 # Sprub
-Springle's Grub Clone. But better than Grub.
+Springle's Grub Fork. But more reliable than Grub.
